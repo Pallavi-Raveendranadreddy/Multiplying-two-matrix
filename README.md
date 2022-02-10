@@ -36,4 +36,6 @@ print("Product of two arrays is:",result)
 ![multiplying](multiplying.PNG)
 
 ## RESULT:
+This program is executed successfully.
+
 
